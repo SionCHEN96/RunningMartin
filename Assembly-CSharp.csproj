@@ -69,11 +69,12 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\Scripts\IntroTextController.cs" />
     <Compile Include="Assets\Scripts\MartinController.cs" />
     <Compile Include="Assets\Scripts\MusicController.cs" />
-    <Compile Include="Assets\Scripts\ParticleScript.cs" />
-    <Compile Include="Assets\Scripts\TileManager.cs" />
-    <Compile Include="Assets\Scripts\TileScript.cs" />
+    <Compile Include="Assets\Scripts\PickupInfo.cs" />
+    <Compile Include="Assets\Scripts\PickupRotation.cs" />
+    <Compile Include="Assets\Scripts\SceneMng.cs" />
     <None Include="Assets\Shader\Sketch.shader" />
     <None Include="Assets\Shader\ToonShading.shader" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />

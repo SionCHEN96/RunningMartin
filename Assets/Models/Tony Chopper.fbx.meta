@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 7baab033fcb11264a8a51e4d23cd3d89
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm left elbow
+    100002: arm left shoulder 1
+    100004: arm left shoulder 2
+    100006: arm left wrist
+    100008: arm right elbow
+    100010: arm right shoulder 1
+    100012: arm right shoulder 2
+    100014: arm right wrist
+    100016: Armature
+    100018: bag a
+    100020: bag b
+    100022: boca
+    100024: boca 1
+    100026: cabeza
+    100028: Chopper
+    100030: cuernos
+    100032: cuerpo
+    100034: extras
+    100036: extremidades
+    100038: gorra
+    100040: gorro
+    100042: hat
+    100044: hat left
+    100046: hat right
+    100048: head ear left
+    100050: head ear right
+    100052: head eyeball left
+    100054: head eyeball right
+    100056: head eyebrow center
+    100058: head eyebrow left
+    100060: head eyebrow left adj
+    100062: head eyebrow right
+    100064: head eyebrow right adj
+    100066: head eyelid left lower 1
+    100068: head eyelid left lower 2
+    100070: head eyelid left lower 3
+    100072: head eyelid left lower 4
+    100074: head eyelid left upper 1
+    100076: head eyelid left upper 2
+    100078: head eyelid left upper 3
+    100080: head eyelid right lower 1
+    100082: head eyelid right lower 2
+    100084: head eyelid right lower 3
+    100086: head eyelid right lower 4
+    100088: head eyelid right upper 1
+    100090: head eyelid right upper 2
+    100092: head eyelid right upper 3
+    100094: head lip corner left
+    100096: head lip corner right
+    100098: head lip lower left 1
+    100100: head lip lower left 2
+    100102: head lip lower middle
+    100104: head lip lower right 1
+    100106: head lip lower right 2
+    100108: head lip upper left 1
+    100110: head lip upper left 2
+    100112: head lip upper middle
+    100114: head lip upper right 1
+    100116: head lip upper right 2
+    100118: head neck
+    100120: head nose
+    100122: leg left ankle
+    100124: leg left knee
+    100126: leg left thigh
+    100128: leg left toes
+    100130: leg right ankle
+    100132: leg right knee
+    100134: leg right thigh
+    100136: leg right toes
+    100138: mochila
+    100140: ojos
+    100142: ojos_en_blanco
+    100144: pantalon
+    100146: root ground
+    100148: root hips
+    100150: spine
+    100152: //RootNode
+    100154: unused112
+    100156: unused113
+    100158: unused114
+    100160: unusedhead back
+    100162: unusedhead cheek left
+    100164: unusedhead cheek right
+    100166: unusedhead chin
+    100168: unusedhead chin left
+    100170: unusedhead chin right
+    100172: unusedhead forehead
+    100174: unusedhead left
+    100176: unusedhead leftt
+    100178: unusedhead right
+    100180: unusedhead rightt
+    100182: unusedhead top
+    400000: arm left elbow
+    400002: arm left shoulder 1
+    400004: arm left shoulder 2
+    400006: arm left wrist
+    400008: arm right elbow
+    400010: arm right shoulder 1
+    400012: arm right shoulder 2
+    400014: arm right wrist
+    400016: Armature
+    400018: bag a
+    400020: bag b
+    400022: boca
+    400024: boca 1
+    400026: cabeza
+    400028: Chopper
+    400030: cuernos
+    400032: cuerpo
+    400034: extras
+    400036: extremidades
+    400038: gorra
+    400040: gorro
+    400042: hat
+    400044: hat left
+    400046: hat right
+    400048: head ear left
+    400050: head ear right
+    400052: head eyeball left
+    400054: head eyeball right
+    400056: head eyebrow center
+    400058: head eyebrow left
+    400060: head eyebrow left adj
+    400062: head eyebrow right
+    400064: head eyebrow right adj
+    400066: head eyelid left lower 1
+    400068: head eyelid left lower 2
+    400070: head eyelid left lower 3
+    400072: head eyelid left lower 4
+    400074: head eyelid left upper 1
+    400076: head eyelid left upper 2
+    400078: head eyelid left upper 3
+    400080: head eyelid right lower 1
+    400082: head eyelid right lower 2
+    400084: head eyelid right lower 3
+    400086: head eyelid right lower 4
+    400088: head eyelid right upper 1
+    400090: head eyelid right upper 2
+    400092: head eyelid right upper 3
+    400094: head lip corner left
+    400096: head lip corner right
+    400098: head lip lower left 1
+    400100: head lip lower left 2
+    400102: head lip lower middle
+    400104: head lip lower right 1
+    400106: head lip lower right 2
+    400108: head lip upper left 1
+    400110: head lip upper left 2
+    400112: head lip upper middle
+    400114: head lip upper right 1
+    400116: head lip upper right 2
+    400118: head neck
+    400120: head nose
+    400122: leg left ankle
+    400124: leg left knee
+    400126: leg left thigh
+    400128: leg left toes
+    400130: leg right ankle
+    400132: leg right knee
+    400134: leg right thigh
+    400136: leg right toes
+    400138: mochila
+    400140: ojos
+    400142: ojos_en_blanco
+    400144: pantalon
+    400146: root ground
+    400148: root hips
+    400150: spine
+    400152: //RootNode
+    400154: unused112
+    400156: unused113
+    400158: unused114
+    400160: unusedhead back
+    400162: unusedhead cheek left
+    400164: unusedhead cheek right
+    400166: unusedhead chin
+    400168: unusedhead chin left
+    400170: unusedhead chin right
+    400172: unusedhead forehead
+    400174: unusedhead left
+    400176: unusedhead leftt
+    400178: unusedhead right
+    400180: unusedhead rightt
+    400182: unusedhead top
+    2100000: lambert2
+    2100002: 21_eyeunder_1_0_0
+    2100004: 21_eyes_1_0_0
+    4300000: extras
+    4300002: boca
+    4300004: extremidades
+    4300006: pantalon
+    4300008: cuerpo
+    4300010: cuernos
+    4300012: gorra
+    4300014: gorro
+    4300016: cabeza
+    4300018: ojos_en_blanco
+    4300020: ojos
+    4300022: mochila
+    9500000: //RootNode
+    13700000: boca
+    13700002: cabeza
+    13700004: cuernos
+    13700006: cuerpo
+    13700008: extras
+    13700010: extremidades
+    13700012: gorra
+    13700014: gorro
+    13700016: mochila
+    13700018: ojos
+    13700020: ojos_en_blanco
+    13700022: pantalon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

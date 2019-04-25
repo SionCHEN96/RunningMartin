@@ -5,20 +5,27 @@ using UnityEngine;
 public class MusicController : MonoBehaviour {
 
     // Use this for initialization
-    AudioSource backgroundMusic;
+    public AudioClip[] audio;
+    AudioSource music;
     GameObject player;
+
 	void Start () {
         player = GameObject.Find("Player");
-        backgroundMusic = GetComponent<AudioSource>();
-        backgroundMusic.Play();
+        GetComponent<AudioSource>().clip = audio[0];
+        GetComponent<AudioSource>().Play();
 
-	}
+    }
 	
 	// Update is called once per frame
 	void Update () {
-        if (player.GetComponent<MartinController>().isDead == true)
+        if (player.GetComponent<MartinController>().IsDead == true)
         {
-            backgroundMusic.Pause();
+            GetComponent<AudioSource>().clip = audio[1];
+            GetComponent<AudioSource>().volume += 0.4f;
+            GetComponent<AudioSource>().loop = false;
+            GetComponent<AudioSource>().Play();
+
         }
+
     }
 }
