@@ -1,0 +1,14 @@
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\ZigZagClone\obj\Debug\Assembly-CSharp.dll
+C:\Users\Kenneth\Desktop\ZigZagClone\obj\Debug\Assembly-CSharp.pdb
