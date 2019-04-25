@@ -6,3 +6,4 @@ Interactive Computer Graphics
 
 Final Project
 
+Created by: Chen Shiyong 15250903
