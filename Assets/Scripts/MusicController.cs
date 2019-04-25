@@ -16,9 +16,9 @@ public class MusicController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (player.GetComponent<PlayerScript>().IsDead == true)
+        if (player.GetComponent<MartinController>().isDead == true)
         {
             backgroundMusic.Pause();
         }
-	}
+    }
 }
